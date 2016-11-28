@@ -1,0 +1,3 @@
+Enum Hack is useful where the declaration like `static const Constant` are
+useful when the compilers cannot accept the constants like above inside
+a class.
