@@ -4,6 +4,6 @@ void foo_rational()
 {
 	Effective_Cpp::Rational a, b, c;
 
-	(a * b) = c; // illegal
+	(a * b) = c; // illegal gives compilation error
 
 }
